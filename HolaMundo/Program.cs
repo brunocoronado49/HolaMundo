@@ -12,10 +12,25 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
-            Console.WriteLine("Francisco AKA Bruce");
-            Console.WriteLine("25 añotes");
-            Console.WriteLine("Libra");
+            // Seccion 1
+            //Console.WriteLine("Seccion 1 ======");
+            //SeccionUno.Consola();
+            //Console.WriteLine("================");
+
+            // Seccion 2
+            Console.WriteLine("Seccion 2 ======");
+            //SeccionDos.Recetas();
+            //SeccionDos.Name();
+            //SeccionDos.Variables();
+            //SeccionDos.Operadores();
+            //SeccionDos.EntradaUsuario();
+            EjercicioSeccionDos.Ejercicio();
+            EjercicioSeccionDos.EjercicioDos();
+            EjercicioSeccionDos.EjercicioTres();
+            Console.WriteLine("================");
+            //Console.WriteLine("Seccion 3 ======");
+
+            //Console.WriteLine("================");
         }
     }
 }
