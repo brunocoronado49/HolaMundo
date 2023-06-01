@@ -36,7 +36,9 @@ namespace HolaMundo
             //SeccionTres.OperadoresLogicos();
             //TareaOperadoresLogicos.Tarea();
             //SeccionTres.InstruccionSwitch();
-            SeccionTres.ValoresConstantes();
+            //SeccionTres.ValoresConstantes();
+            TareaSeccionTres.TareaUno();
+            TareaSeccionTres.TareaDos();
             Console.WriteLine("================");
         }
     }
