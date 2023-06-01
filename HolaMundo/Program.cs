@@ -18,19 +18,26 @@ namespace HolaMundo
             //Console.WriteLine("================");
 
             // Seccion 2
-            Console.WriteLine("Seccion 2 ======");
+            //Console.WriteLine("Seccion 2 ======");
             //SeccionDos.Recetas();
             //SeccionDos.Name();
             //SeccionDos.Variables();
             //SeccionDos.Operadores();
             //SeccionDos.EntradaUsuario();
-            EjercicioSeccionDos.Ejercicio();
-            EjercicioSeccionDos.EjercicioDos();
-            EjercicioSeccionDos.EjercicioTres();
-            Console.WriteLine("================");
-            //Console.WriteLine("Seccion 3 ======");
-
+            //EjercicioSeccionDos.Ejercicio();
+            //EjercicioSeccionDos.EjercicioDos();
+            //EjercicioSeccionDos.EjercicioTres();
             //Console.WriteLine("================");
+            Console.WriteLine("Seccion 3 ======");
+            //SeccionTres.ValorBooleano();
+            //SeccionTres.PalabrasClave();
+            //SeccionTres.Condiciones();
+            //SeccionTres.IfAnidados();
+            //SeccionTres.OperadoresLogicos();
+            //TareaOperadoresLogicos.Tarea();
+            //SeccionTres.InstruccionSwitch();
+            SeccionTres.ValoresConstantes();
+            Console.WriteLine("================");
         }
     }
 }
